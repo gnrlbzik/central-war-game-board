@@ -1,8 +1,9 @@
 {
-  "name": "cwg-map-grid",
+  "name": "central-war-game-board",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
+  "private": true,
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
